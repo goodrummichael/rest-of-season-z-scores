@@ -4,6 +4,7 @@ Calculate Rest of Season MLB Z-scores using Fangraphs Depth Charts projections
 This R script generates rest of season projected 5x5 Z-scores using Fangraphs Depth Charts rest of season projections
 
 Input: Fangraphs ROS Depth Charts projections
+
 Output: Two files in your R working directory: batterROS.csv and pitcherROS.csv
 
 Step 0: Download Fangraphs ROS depth charts projections CSV files
